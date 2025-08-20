@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ec8be0d30150b9",
+        "id": "a447e151fd88e869",
         "type": "tabs",
         "children": [
           {
-            "id": "365805725d9e6de7",
+            "id": "dcea1d8881829d28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Program Draft.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Program Draft"
+              "title": "New tab"
             }
           }
         ]
@@ -160,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,14 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cfd588bf2009613",
+  "active": "dcea1d8881829d28",
   "lastOpenFiles": [
-    "Cybersecurity/Program Draft.md",
-    "Cybersecurity/Specific",
-    "Cybersecurity/General",
+    "Cybersecurity/Alberto Bartoli/Program Draft.md",
+    "Cybersecurity/Alberto Bartoli/Useful Links.md",
+    "Cybersecurity/Alberto Bartoli",
+    "Cybersecurity/Alberto Bartoli/Specific",
+    "Cybersecurity/Alberto Bartoli/General",
     "Cybersecurity - General.canvas",
     "Cybersecurity",
-    "Cybersecurity/General/Session - 1.md",
+    "Cybersecurity/Alberto Bartoli/General/Session - 1.md",
     "2025-08-18.md",
     "Welcome.md",
     "create a link.md"
