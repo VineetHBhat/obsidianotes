@@ -11,10 +11,14 @@
             "id": "365805725d9e6de7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Program Draft.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Program Draft"
             }
           }
         ]
@@ -166,9 +170,12 @@
   },
   "active": "6cfd588bf2009613",
   "lastOpenFiles": [
+    "Cybersecurity/Program Draft.md",
+    "Cybersecurity/Specific",
+    "Cybersecurity/General",
     "Cybersecurity - General.canvas",
-    "General - Cybersecurity",
-    "General - Cybersecurity/Session - 1.md",
+    "Cybersecurity",
+    "Cybersecurity/General/Session - 1.md",
     "2025-08-18.md",
     "Welcome.md",
     "create a link.md"
