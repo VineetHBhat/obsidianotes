@@ -49,7 +49,7 @@ Objective is stealing/disruption, not money.
 
 ---
 ##### Threat model
-1. Starting point
+1. Starting point (Discussed in detail in [[Session - 4]])
 
 ---
 ##### Reverse Shells
