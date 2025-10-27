@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Alberto Bartoli/General/Session - 5.md",
+                "file": "Cybersecurity/Alberto Bartoli/General/Session - 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session - 5"
+              "title": "Session - 6"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "520 - Passwords"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52a5e2cbf79e5c91",
+  "active": "36c1f9e2681c01dc",
   "lastOpenFiles": [
     "Cybersecurity/Alberto Bartoli/General/Session - 5.md",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/520 - Passwords.pdf",
