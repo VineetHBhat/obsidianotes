@@ -110,4 +110,14 @@
 2. Tools: John the Ripper, Hashcat
 
 ##### Guessing Attacks Today - 3 phases
-1. Dictionaries
+1. Dictionaries - Always used
+2. Mangling rules (applied to dictionary) - Rarely used
+	1. Append (and/or prepend) a special char
+	2. Replace o (and/or O) with 0
+	3. ...
+3. All permutations required by target password policy - Even more rarely used
+
+##### Kerberoasting
+1. Threat Model - Attacker with credentials of one account
+2. Attacker asks for data encrypted with password of any account of his choice for offline guessing
+3. Common & dangerous in Windows Active Directory
