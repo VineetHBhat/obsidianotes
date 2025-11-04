@@ -80,3 +80,7 @@
 	6. Used for authentication
 	7. Never leave the device while Cookies are transmitted in every request
 	8. Consequence - Downgrade attack - User doesn't consider the login page as suspicious
+
+---
+##### Vulnerabilities
+- Palo Alto firewall issue - Unauthenticated remote command injection
