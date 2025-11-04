@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Alberto Bartoli/General/Session - 7.md",
+                "file": "Cybersecurity/Alberto Bartoli/General/Session - 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session - 7"
+              "title": "Session - 8"
             }
           },
           {
@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Cybersecurity/Alberto Bartoli/Attachments/Slides/540 - MFA.pdf"
+                "file": "Cybersecurity/Alberto Bartoli/Attachments/Slides/900 - Vulnerabilities - CVE.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "540 - MFA"
+              "title": "900 - Vulnerabilities - CVE"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "36c1f9e2681c01dc",
   "lastOpenFiles": [
+    "Cybersecurity/Alberto Bartoli/Attachments/Slides/900 - Vulnerabilities - CVE.pdf",
+    "Cybersecurity/Alberto Bartoli/General/Session - 8.md",
+    "Cybersecurity/Alberto Bartoli/Attachments/Slides/940 - Vulnerabilities - EPSS.pdf",
+    "Cybersecurity/Alberto Bartoli/Attachments/Slides/720 - Security Testing - Overview.pdf",
+    "Cybersecurity/Alberto Bartoli/Attachments/Slides/700 - Vulnerabilities - Case Studies.pdf",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/540 - MFA.pdf",
     "Cybersecurity/Alberto Bartoli/General/Session - 7.md",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/520 - Passwords.pdf",
@@ -193,10 +198,6 @@
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/500 - Access Control - Organizations.pdf",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/420 - Detection - Malware and Attacks.pdf",
     "Cybersecurity/Alberto Bartoli/General/Session - 4.md",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/400 - Detection - Fundamentals.pdf",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/320 - Basic Tactics.pdf",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/100 - Attacks - MITRE Attack.pdf",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/200 - Access Control.pdf",
     "Cybersecurity/Alberto Bartoli/General/Session - 1.md",
     "Cybersecurity/Alberto Bartoli/General/Session - 3.md",
     "Cybersecurity/Alberto Bartoli/General/Session - 2.md",
