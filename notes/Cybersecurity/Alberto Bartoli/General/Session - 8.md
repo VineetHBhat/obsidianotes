@@ -10,7 +10,7 @@
 	1. CVE-ID - CVE-YYYY-*NNNN..NN* - Unique identifier of the vulnerability
 	2. Textual description & links
 	3. CPE - Common Platform Enumeration - Vendor, System, Version in standard format
-	4. CWE - Common Weakness Enumeration - Type of mistake(s) in standard taxonomy
+	4. CWE - Common Weakness Enumeration - Type of mistake(s) in standard taxonomy (Taxonomy -> the scientific process of arranging things into groups)
 7. Each entry (CVE) is composed of
 	1. Injection type
 	2. Impact type
