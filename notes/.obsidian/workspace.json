@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Alberto Bartoli/General/Session - 11.md",
+                "file": "Cybersecurity/Alberto Bartoli/General/Session - 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session - 11"
+              "title": "Session - 12"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "980 - OAuth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85eb1903f515c6f1",
@@ -183,10 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdcaee4c0649f147",
+  "active": "36c1f9e2681c01dc",
   "lastOpenFiles": [
-    "Cybersecurity/Alberto Bartoli/General/Session - 11.md",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/980 - OAuth.pdf",
+    "Cybersecurity/Alberto Bartoli/General/Session - 12.md",
+    "Cybersecurity/Alberto Bartoli/General/Session - 11.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Cybersecurity/Alberto Bartoli/General/Session - 1.md",
     "Cybersecurity/Alberto Bartoli/General/Session - 3.md",
     "Cybersecurity/Alberto Bartoli/General/Session - 2.md",
@@ -207,8 +208,6 @@
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/700 - Vulnerabilities - Case Studies.pdf",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides/540 - MFA.pdf",
     "Cybersecurity/Alberto Bartoli/General/Session - 7.md",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/520 - Passwords.pdf",
-    "Cybersecurity/Alberto Bartoli/Attachments/Slides/Slides-20251028T070646Z-1-001.zip",
     "Cybersecurity/Alberto Bartoli/Attachments/Slides Page.md",
     "Cybersecurity/Alberto Bartoli/Cybersecurity course program.md",
     "Cybersecurity/Alberto Bartoli/Attachments/second-section-draft.png",
